@@ -1,0 +1,10 @@
+{
+  "name": "AI-Based Cow Muzzle Identification",
+  "description": "AI-Based Cow Muzzle Identification with YOLOv8 Biometric Ridge Detection and digital herd passport management.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
